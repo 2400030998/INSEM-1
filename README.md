@@ -3,7 +3,7 @@
 A modern React-based employee management system built with Vite.
 
 ## 🌐 Live Demo  
-**[Live Site - Click Here](https://2400030998.github.io/INSEM-1/)**
+(https://2400030998.github.io/INSEM-1/)
 
 ## 🚀 Features
 - Employee data management
